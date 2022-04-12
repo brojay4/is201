@@ -1,0 +1,65 @@
+
+
+#left {
+    float: left;
+    text-align: left;
+    padding-right: 10px;
+    padding-left: 5%;
+    font-size: 80px;
+    height: 100px;
+    font-style: italic;
+    font-family: serif;
+    color: aliceblue;
+}
+
+#center {
+    text-align: center;
+    font-size: 50px;
+}
+
+#right {
+    float: right;
+    text-align: right;
+    color: aliceblue;
+    font-size: 30px;
+    padding-right: 10px;
+}
+
+.header{
+    font-size: 80px;
+    text-align: center;
+    height: 100px;
+    background-color: lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 100px;
+}
+
+.tableauPlaceholder{
+    width: 750px;
+}
+
+.mainbody{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(111, 163, 180);
+    font-family: sans-serif;
+    font-size: 100%;
+    background-color: aliceblue;
+}
+
+.footer{
+    text-align: center;
+    font-size: 125%;
+    background-color: lightblue;
+    color: aliceblue;
+    height: 40px;
+    line-height: 40px;
+}
+
+.power{
+    font-style: italic;
+    font-weight: lighter;
+    color: gray;
+    font-size: medium;
+}
